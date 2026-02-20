@@ -8,13 +8,13 @@ O projeto simula um site institucional com destaque para produtos, benefícios e
 ## 🚀 Demonstração
 
 🔗 **Site publicado:**  
-https://weversonsgusmao.github.io/Multivar-Distribuidora/
+https://weversonsgusmao.github.io/landingpage-multivar/
 
 ---
 
 ## Preview
 
-![Preview](https://image.thum.io/get/https://weversonsgusmao.github.io/Multivar-Distribuidora/)
+![Preview](https://image.thum.io/get/https://weversonsgusmao.github.io/landingpage-multivar/)
 
 ---
 
