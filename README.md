@@ -12,6 +12,12 @@ https://weversonsgusmao.github.io/Multivar-Distribuidora/
 
 ---
 
+## Preview
+
+![Preview](https://image.thum.io/get/https://weversonsgusmao.github.io/Multivar-Distribuidora/)
+
+---
+
 ## 📌 Funcionalidades
 
 - Estrutura de navegação com menu superior
