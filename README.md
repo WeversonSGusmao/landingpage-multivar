@@ -1,25 +1,34 @@
-# Multivar Distribuidora — Landing Page
+# 🛒 MultiVar Distribuidora — Landing Page
 
-## 📌 Descrição
-Landing page estática construída para treinar **layout**, **grid**, **tipografia** e **componentização de seções**.
+Landing page desenvolvida para apresentar a empresa fictícia **MultiVar – Distribuidora**, focada em demonstrar capacidade de construção de layout, organização visual, semântica HTML e estilização com CSS.  
+O projeto simula um site institucional com destaque para produtos, benefícios e chamada para ação.
 
-## 🛠️ Tecnologias
-- HTML5
-- CSS3 (flexbox/grid)
+---
 
-## 🎯 Objetivos de aprendizado
-- Estruturar seções de hero, serviços, depoimentos e contato
-- Trabalhar tipografia, espaçamento e hierarquia visual
-- Preparar terreno para futura versão com JavaScript (menu mobile, animações)
+## 🚀 Demonstração
 
-## ▶️ Como visualizar
-- Online: https://weversonsgusmao.github.io/multivar-distribuidora
-- Local: abra `index.html` no navegador
+🔗 **Site publicado:**  
+https://weversonsgusmao.github.io/Multivar-Distribuidora/
 
-## 🖼️ Preview
-![Preview](assets/screenshot.png)
+---
 
-## 🔭 Próximos passos
-- [ ] Menu mobile com JavaScript
-- [ ] Animações leves (CSS transitions)
-- [ ] Melhorias de acessibilidade (tabindex, rótulos)
+## 📌 Funcionalidades
+
+- Estrutura de navegação com menu superior
+- Seção principal (hero) com chamada para ação
+- Exibição de cards de produtos
+- Seção destacando benefícios da distribuidora
+- Página de confirmação de envio (`sucesso.html`)
+- Código limpo e organizado em HTML, CSS e JavaScript
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML5** – Estrutura e semântica  
+- **CSS3** – Estilização, layout e responsividade  
+- **JavaScript** – Comportamentos simples (menu e interações)
+
+---
+
+## 📂 Estrutura de Pastas
