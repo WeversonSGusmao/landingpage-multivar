@@ -12,7 +12,7 @@ https://weversonsgusmao.github.io/Multivar-Distribuidora/
 
 ---
 
-## 🔗Preview
+## Preview
 
 ![Preview](https://image.thum.io/get/https://weversonsgusmao.github.io/Multivar-Distribuidora/)
 
